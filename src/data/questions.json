@@ -1,0 +1,2403 @@
+[
+  {
+    "vignette": "A 15-year-old girl is referred to a private physiotherapy clinic with a diagnosis of left thoracic and right lumbar scoliosis. She has a two-month history of back pain and a kyphotic posture.",
+    "questions": [
+      {
+        "id": 1,
+        "question": "During the postural assessment, the PT notices a rib hump. Which of the following positions is BEST for observing this deformity?",
+        "options": [
+          "Prone lying",
+          "Upright standing",
+          "Supported sitting",
+          "Forward bending"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 2,
+        "question": "Which of the following postural findings confirms that the client has a structural scoliosis rather than a functional scoliosis?",
+        "options": [
+          "Curvatures remain present during forward bending of the trunk",
+          "Right anterior innominate rotation is present in supine",
+          "Curvatures disappear in left side lying",
+          "Iliac crests are level in sitting"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 3,
+        "question": "Which of the following cardiopulmonary dysfunctions is MOST likely to affect the client?",
+        "options": [
+          "Basal atelectasis",
+          "Cardiac hypertrophy",
+          "Restrictive lung disease",
+          "Decreased cardiac output"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 36-year-old man attends physiotherapy at a rehabilitation centre three weeks after falling onto his right elbow. He reports pain and numbness in the ring and little finger and has difficulty using his right hand. He works as a carpenter.",
+    "questions": [
+      {
+        "id": 4,
+        "question": "Which of the following findings confirms a diagnosis of a peripheral nerve lesion?",
+        "options": [
+          "Intact triceps reflex and altered sensation in the right little finger",
+          "Absent triceps reflex and positive right cervical extension quadrant test",
+          "Decreased sensation in the right little finger and positive Hoffmann’s reflex",
+          "Positive adverse neural tissue tension and positive right cervical extension quadrant test"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 5,
+        "question": "To prevent the pain in the client’s hand from getting worse, which of the following interventions is MOST important for the PT to include in the client’s initial treatment plan?",
+        "options": [
+          "Use of an elbow pad",
+          "Stabilizing the elbow with splinting",
+          "Prolonged stretching of the wrist and elbow",
+          "Applying electrical modalities at the wrist and hand"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 6,
+        "question": "The client asks the PT about restrictions when he returns to work. Which of the following activities is MOST likely to trigger the client’s symptoms?",
+        "options": [
+          "Weight-bearing through his hands",
+          "Pushing a wheelbarrow",
+          "Reaching overhead",
+          "Using a hammer"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 7,
+        "question": "The client’s pain has not improved after two weeks of treatment. He reports that he is not taking his prescribed non-steroidal anti-inflammatory medications (NSAIDs) because he does not like the side effects. What is the MOST appropriate course of action for the PT to take?",
+        "options": [
+          "Reiterate the benefits of using NSAIDs with the client",
+          "Suggest that the client use ice regularly instead of NSAIDs",
+          "Advise the client to discuss this with the prescribing physician",
+          "Use transcutaneous electrical nerve stimulation instead of NSAIDs"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 75-year-old woman is transferred to a rehabilitation centre four days after having a left total knee arthroplasty. She has a history of peripheral vascular disease and lives with her son on the upper floor of a duplex. She requires physiotherapy.",
+    "questions": [
+      {
+        "id": 8,
+        "question": "During assessment, the PT suspects that the client may be experiencing intermittent claudication. Which of the following symptoms differentiates this diagnosis from other possible arterial pain syndromes?",
+        "options": [
+          "Distal intermittent pain in one or both feet that is worsened by exposure to cold",
+          "Pain during exercise that is relieved by rest without a change in posture",
+          "Constant resting pain that is not relieved by a change in position",
+          "Paraesthesia with sudden shock-like pain in one or both feet"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 9,
+        "question": "As the client’s condition progresses, which of the following complications will MOST likely affect the PT’s treatment plan?",
+        "options": [
+          "Hyperaesthesia",
+          "Joint swelling",
+          "Ulcerations",
+          "Joint laxity"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 10,
+        "question": "As the client starts exercising, the PT should instruct the client to pause if she experiences which of the following symptoms?",
+        "options": [
+          "Increased thirst",
+          "Claudication pain",
+          "Distal paraesthesia",
+          "Increased heart rate"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 11,
+        "question": "The PT plans on starting stair training to prepare the client for discharge. The client expresses fear about practicing stairs today, and worries about her ability to manage stairs safely in her home. How should the PT address the client’s concerns?",
+        "options": [
+          "Inform the team about the client’s concerns and proceed with stair training",
+          "Reassure the client that her concerns are valid and postpone stair training until just before discharge",
+          "Discuss the importance of stair training and what to expect, and then proceed with stair training",
+          "Listen to the client’s concerns and postpone stair training until it is discussed at the next team meeting"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 12,
+        "question": "Two weeks after the client is discharged, the client’s son calls the rehabilitation centre, saying that his mother cannot remember her exercises, and asks the PT to tell him the program. What should the PT do?",
+        "options": [
+          "Direct the son to a similar program online",
+          "Send the client’s son an electronic copy of the client’s program",
+          "Tell the client’s son that the program can only be sent through the family physician",
+          "Tell the client’s son that the program can only be discussed with the client’s consent"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 41-year-old woman who has a four-month history of left shoulder pain and limited range of motion attends a physiotherapy clinic for treatment.",
+    "questions": [
+      {
+        "id": 13,
+        "question": "During history taking, which of the following statements should lead the PT to suspect that the client has primary adhesive capsulitis?",
+        "options": [
+          "“I injured my shoulder four months ago, but the pain just never eased.”",
+          "“I have no recent shoulder injuries, it just started getting sore with movement.”",
+          "“I injured my shoulder four months ago, but the movement has not come back.”",
+          "“I have no recent shoulder injuries, but I did have a left shoulder injury two years ago.”"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 14,
+        "question": "Which pattern of movement restriction confirms adhesive capsulitis?",
+        "options": [
+          "Internal rotation and flexion are more limited than abduction and external rotation",
+          "Internal rotation and abduction are more limited than flexion and external rotation",
+          "External rotation and flexion are more limited than abduction and internal rotation",
+          "External rotation and abduction are more limited than flexion and internal rotation"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 15,
+        "question": "To perform pendulum exercises, what instructions should the PT give to the client?",
+        "options": [
+          "Stand, lean forward, and move the trunk to swing the arm",
+          "Stand and perform arm circles against the wall using a small ball",
+          "Lie in bed, reach toward the ceiling, and move the arm in a circular pattern",
+          "Stand, lean forward, and use the shoulder blade muscles to swing the arm with a weight"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 76-year-old woman who has a history of two falls in the past six months is referred for physiotherapy at an outpatient fall prevention clinic. She lives alone in a single-storey house.",
+    "questions": [
+      {
+        "id": 16,
+        "question": "Which of the following reports from the client’s history should the PT identify as the MOST likely factors contributing to her falls?",
+        "options": [
+          "Poor vision, hearing loss, and osteoporosis",
+          "Short-term memory impairment, polypharmacy, and osteoporosis",
+          "Poor vision, changes in lower extremity sensation, and polypharmacy",
+          "Short-term memory impairment, changes in lower extremity sensation, and hearing loss"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 17,
+        "question": "Which of the following outcome measures is MOST appropriate for assessing the client’s risk of falling?",
+        "options": [
+          "Romberg Test",
+          "Six-Minute Walk Test",
+          "Functional Independence Measure",
+          "Tinetti Performance-Oriented Mobility Assessment"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 18,
+        "question": "During the assessment, the client stumbles and reports feeling dizzy after standing up too quickly from lying down on the treatment bed. In response to the incident, and to reduce the risk of falls, what should the PT instruct the client to do?",
+        "options": [
+          "Talk to her physician about this incident",
+          "Use a wider base of support when standing up",
+          "Perform upper extremity exercises before standing up",
+          "Take time to accommodate to standing before walking"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 19,
+        "question": "The client asks the PT if there are any simple changes she can make to her home to reduce the risk of falls. Which of the following changes is MOST important for the PT to suggest?",
+        "options": [
+          "Improve lighting and remove loose rugs",
+          "Replace slippery surfaces and install a ramp",
+          "Improve lighting and remove mirrors in hallways",
+          "Replace slippery surfaces and remove thick carpets"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 22-year-old woman is at an outpatient physiotherapy clinic after developing anterior left knee pain. She states that the pain began gradually about one month ago while training to run a half-marathon. Her training includes running, weightlifting, and swimming. She has not been able to increase her training lately due to increased pain. The PT suspects patellofemoral pain syndrome.",
+    "questions": [
+      {
+        "id": 20,
+        "question": "Which of the following training factors should the PT suspect MOST likely contributed to the onset of the client’s knee pain?",
+        "options": [
+          "Initiating walk-run interval training",
+          "Increasing the number of laps in swimming",
+          "Adding lunges to the weight-lifting program",
+          "Introducing resisted hip exercises to the program"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 21,
+        "question": "One of the initial goals is to decrease pain and effusion at the knee joint. Which of the following outcomes will most likely be AVOIDED if this goal is achieved?",
+        "options": [
+          "Scarring in the lateral retinaculum",
+          "Further destruction of the cartilage",
+          "Irritation of the infrapatellar fat pad",
+          "Inhibition of the quadriceps muscles"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 22,
+        "question": "A PT colleague at the clinic has read an abstract of an article that suggests an alternative treatment is more effective. The colleague recommends that the PT try this protocol. What should the PT do about this recommendation?",
+        "options": [
+          "Contact the referring physician before changing treatments",
+          "Read the article to learn about the alternative treatment",
+          "Trial the alternative treatment in the client’s program",
+          "Conduct a study on the two treatment methods"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 23,
+        "question": "The client asks the PT to include acupuncture in her treatment plan. The PT only has basic knowledge of acupuncture. How should the PT proceed?",
+        "options": [
+          "Refer the client to another PT who is certified in acupuncture",
+          "Advise the client to continue the current treatment plan without acupuncture",
+          "Perform acupuncture while being supervised by a PT who is certified in acupuncture",
+          "Perform acupuncture after observing an acupuncture-certified PT perform the treatment on the client"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 20-year-old man is in an acute care facility for a smoke inhalation injury caused by a house fire. His condition has worsened over the past two days, and he is now diagnosed with acute respiratory distress syndrome. He is referred for physiotherapy.",
+    "questions": [
+      {
+        "id": 24,
+        "question": "Which of the following findings should the PT expect to see in the client’s chart?",
+        "options": [
+          "Mild dyspnea and hypoxaemia that is unresponsive to oxygen",
+          "Decreased lung capacity and hypoxaemia that is responsive to oxygen",
+          "Severe dyspnea and diffuse bilateral pulmonary infiltrates on chest X-ray",
+          "Increased lung capacity and unilateral pulmonary infiltrates on chest X-ray"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 25,
+        "question": "The client is transferred to the Intensive Care Unit (ICU) for increasing pulmonary edema and atelectasis. He is now mechanically ventilated. In addition to performing postural drainage before suctioning, what else must the PT consider when implementing the pulmonary hygiene plan?",
+        "options": [
+          "Hyperventilate the client before treatment",
+          "Limit suctioning to two times per treatment",
+          "Raise the head of the bed before suctioning",
+          "Hyperoxygenate the client before suctioning"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 26,
+        "question": "The client’s condition has improved since being ventilated in the ICU, and he is now being weaned from mechanical ventilation. Which of the following responses should the PT evaluate while the client is breathing spontaneously?",
+        "options": [
+          "Respiratory rate, blood pressure, and pulse rate",
+          "Blood pressure, peripheral oxygen saturation, and pulse rate",
+          "Respiratory rate, peripheral oxygen saturation, and pulse rate",
+          "Blood pressure, peripheral oxygen saturation, and respiratory rate"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 27,
+        "question": "The client is transferred back to the medical unit from the ICU. His condition continues to improve, but the team notices that he is no longer cooperating during his treatments. What should the PT do?",
+        "options": [
+          "Pause physiotherapy until the client is more motivated",
+          "Encourage the client to participate through mutual goal-setting",
+          "Request that the team call in a mental health professional to see the client",
+          "Emphasize to the client the importance of doing breathing exercises three times per day"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 38-year-old man attends a physiotherapy clinic with acute right elbow and forearm pain. He has been working as a software developer for the past five years and started using a new keyboard two months ago.",
+    "questions": [
+      {
+        "id": 28,
+        "question": "The client reports that the pain in his elbow gets worse while he is working. Which pain pattern indicates that the client has lateral epicondylitis?",
+        "options": [
+          "Pain at the origin of the wrist flexors and pain with resisted wrist extension with the elbow flexed",
+          "Pain at the origin of the wrist flexors and pain with resisted wrist flexion with the elbow extended",
+          "Pain at the origin of wrist extensors and pain with resisted wrist flexion with the elbow extended",
+          "Pain at the origin of the wrist extensors and pain with resisted wrist extension with the elbow flexed"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 29,
+        "question": "What stretch pattern should the PT teach to the client?",
+        "options": [
+          "Elbow flexion, wrist flexion, pronation, ulnar deviation, and finger flexion",
+          "Elbow extension, wrist flexion, pronation, ulnar deviation, and finger flexion",
+          "Elbow flexion, wrist extension, supination, radial deviation, and finger extension",
+          "Elbow extension, wrist extension, supination, radial deviation, and finger extension"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 30,
+        "question": "The PT develops an exercise program for the client. What is the MOST appropriate progression of exercises to improve muscle strength?",
+        "options": [
+          "Plyometric, isometric, dynamic, simulated",
+          "Plyometric, dynamic, isometric, simulated",
+          "Isometric, dynamic, functional patterns, simulated",
+          "Isometric, plyometric, functional patterns, dynamic"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 31,
+        "question": "During the final treatment session, the client touches the PT in a manner that makes the PT feel uncomfortable. What should the PT do?",
+        "options": [
+          "Terminate the treatment session",
+          "Report the behaviour to clinic management",
+          "Ignore the incident, since this is the last session",
+          "Address the inappropriate touching with the client"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 30-year-old man attends a private physiotherapy clinic for treatment of bilateral anterolateral shin pain. The pain began after he started a running program eight weeks ago. He is training to run a marathon in four months.",
+    "questions": [
+      {
+        "id": 32,
+        "question": "Which of the following factors MOST likely contributed to the onset of the client’s pain?",
+        "options": [
+          "Training on a banked surface",
+          "Improper training intensity",
+          "Training on a treadmill",
+          "Improper warm-up"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 33,
+        "question": "On manual muscle testing, in which muscles is the PT MOST likely to find pain and weakness?",
+        "options": [
+          "Tibialis anterior and flexor digitorum longus",
+          "Peroneus longus and flexor digitorum longus",
+          "Tibialis anterior and extensor digitorum longus",
+          "Peroneus longus and extensor digitorum longus"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 34,
+        "question": "In developing a return-to-running strategy to help the client achieve his goal of completing a marathon, which of the following recommendations is MOST important for the PT to make?",
+        "options": [
+          "Extend the warm-up period before all runs",
+          "Wear compression stockings while running",
+          "Include alternate forms of exercise other than running",
+          "Gradually progress running frequency, intensity, and duration"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 35,
+        "question": "After six weeks of sufficient rest and rehabilitation, the client is unable to start a return-to-running program because he experiences severe tibial pain with any attempt to run. What should the PT do?",
+        "options": [
+          "Give the client crutches to decrease weight-bearing",
+          "Refer the client to a physician for further investigation",
+          "Recommend switching to alternative lower impact sports",
+          "Continue the current program and ask the client to keep a log of pain intensity and frequency"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 60-year-old man who has post-polio syndrome is experiencing fatigue and deterioration of his physical status. He is attending a rehabilitation centre for physiotherapy treatment.",
+    "questions": [
+      {
+        "id": 36,
+        "question": "In addition to fatigue, which of the following clinical findings should the PT expect the client to exhibit?",
+        "options": [
+          "Pain, hypotonia, and impaired sensation",
+          "Pain, muscle fasciculations, and progressive weakness",
+          "Joint inflammation, muscle fasciculations, and hyperreflexia",
+          "Joint inflammation, hypotonia, and decreased proprioception"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 37,
+        "question": "The client reports that he is frustrated with his home exercise program because he has difficulty following the written instructions. What should the PT do?",
+        "options": [
+          "Increase the frequency of the client’s treatment sessions",
+          "Include more electrical modalities in the client’s plan",
+          "Decrease the number of the client’s exercises",
+          "Determine the client’s learning preferences"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 38,
+        "question": "After two weeks of performing a strength training program developed by the PT, the client reports increased fatigue. What should the PT do?",
+        "options": [
+          "Educate the client to exercise to the limits of his fatigue",
+          "Ensure the client is well-rested before exercising",
+          "Assist the client in modifying his exercise program",
+          "Advise the client to discontinue the exercises"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 39,
+        "question": "At a follow-up treatment session, the client says that he is very unhappy with his life and thinks he would be better off dead. How should the PT BEST respond to the client’s statement?",
+        "options": [
+          "Extend the session to listen and empathize with the client’s concerns",
+          "Encourage the client to discuss these thoughts with the social worker on the team",
+          "Explain to the client that depression is very common in individuals with chronic conditions",
+          "Reassure the client that these thoughts are temporary since his condition is expected to improve"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 64-year-old woman attends physiotherapy at an acute care facility after having a right total hip replacement.",
+    "questions": [
+      {
+        "id": 40,
+        "question": "The PT determines that the client is ready to walk with minimal assistance using a walker. Which of the following steps should the PT take to communicate this information?",
+        "options": [
+          "Inform the client’s surgeon and request an approval for this progression",
+          "Inform the client and unit staff and document this in the client’s chart",
+          "Inform the client and empower her to tell the unit staff about her progress",
+          "Inform the client and unit staff of the progression and report this to the client’s family"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 41,
+        "question": "At a follow-up appointment, the client asks to skip the exercise part of the session because the exercises make her pain worse. On assessment, the PT determines that the client’s pain is related to muscle soreness. How should the PT respond to the client’s request?",
+        "options": [
+          "Acknowledge the client’s pain and tell her that she should stop exercising until she is pain-free",
+          "Allow the client to skip the exercises today but tell her that she must do her exercises tomorrow",
+          "Tell the client that her exercises may be paused and that her decision to skip the exercises will be reported to her surgeon",
+          "Advise the client that muscle soreness is common when starting a program and that she should stay consistent with her exercises"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 42,
+        "question": "The client reveals to the PT, with much embarrassment, that she currently has a problem with drinking too much alcohol and that her family does not know about it. What should the PT do with this information during a discharge planning meeting with the client’s family?",
+        "options": [
+          "Keep the information confidential",
+          "Discuss the concern with the client and her family",
+          "Suggest to the family that the client may have a problem with alcohol",
+          "Provide the family with community resource information on substance abuse"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "An 18-year-old woman is admitted to an acute care facility after sustaining a closed head injury. She is unconscious, responds to pinch with eye opening, and has some spontaneous movements on the left side. Her intracranial pressure is not being monitored. Two days after her admission, the PT receives a referral to assess and treat the client.",
+    "questions": [
+      {
+        "id": 43,
+        "question": "During the initial assessment, what sign indicates a raised intracranial pressure in the client?",
+        "options": [
+          "Reduced muscle tone",
+          "Reduced blood pressure",
+          "Increasing level of agitation",
+          "Deteriorating respiratory pattern"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 44,
+        "question": "At a subsequent appointment, the PT is using the contract-relax exercise technique to increase the length of the client’s gastrocnemius and soleus muscles. The client is able to follow commands but is easily distracted during treatment. To help the client sustain her attention during treatment, what should the PT do?",
+        "options": [
+          "Treat the client in a quiet area",
+          "Give the client frequent reminders to pay attention",
+          "Use a loud stimulating voice to deliver instructions",
+          "Allow the client to listen to music during the exercises"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 45,
+        "question": "To further help the client focus her attention when completing exercise sets, how should the PT structure her activities?",
+        "options": [
+          "Vary the number of repetitions for each exercise and each set",
+          "Allow the client unlimited time to complete her activities",
+          "Add one more repetition after completing each set",
+          "Provide regular feedback on the time remaining"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 46,
+        "question": "To maintain the client’s skin integrity and ensure proper pelvic and head positioning, what type of chair should the PT recommend?",
+        "options": [
+          "Recliner wheelchair",
+          "Standard wheelchair",
+          "Recliner lounge chair",
+          "Tilt-in-space wheelchair"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 47,
+        "question": "Six weeks after the injury, the client is transferred to a rehabilitation facility. The client demonstrates short-term memory loss and confusion, and has trouble remembering her rehabilitation schedule. Which of the following strategies should the PT use to assist the client with these problems?",
+        "options": [
+          "Stimulate the client’s memory with new tasks",
+          "Encourage the client to use a therapy journal",
+          "Have a family member attend therapy with the client",
+          "Request that the nurse remind the client of her therapy times"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 40-year-old woman attends a private physiotherapy clinic 12 hours after injuring her right ankle during a basketball game. She is using crutches to reduce weight-bearing on her right foot. The PT suspects a second-degree ankle inversion injury.",
+    "questions": [
+      {
+        "id": 48,
+        "question": "What test should the PT perform to confirm laxity of the client’s anterior talofibular ligament?",
+        "options": [
+          "Anterior translation of the talus on the tibia",
+          "Posterior translation of the talus on the tibia",
+          "Passive eversion of the calcaneus with talotibial gapping",
+          "Active plantarflexion and eversion with palpation of the talocrural joint"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 49,
+        "question": "The client tells the PT that she must play in a basketball game in three days. How should the PT respond?",
+        "options": [
+          "Discuss the client’s concern with her team’s coach",
+          "Assure the client that she can play if her ankle is taped",
+          "Explain to the client that her ankle must be reassessed before she can play in a game",
+          "Advise the client to discuss the possibility of playing in three days with her physician"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 50,
+        "question": "The client attends a follow-up appointment 10 days after the injury. Her ankle range of motion has deteriorated, and she is still not bearing weight fully on her right foot. Strength testing around the ankle is weak and painful. The client confirms that she has done her exercises and followed all instructions. What should the PT do?",
+        "options": [
+          "Refer the client back to her physician",
+          "Teach the client non-weight-bearing crutch walking",
+          "Encourage the client to continue working on her exercises",
+          "Increase the client’s treatment frequency to daily sessions and reassess in one week"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 70-year-old woman is referred to a private practice physiotherapy clinic for treatment of pain and stiffness of the left shoulder. She had a fracture of the surgical neck of the left humerus one year ago, which is now healed. She has a cardiac pacemaker.",
+    "questions": [
+      {
+        "id": 51,
+        "question": "When the PT examines the client’s left shoulder, the active range of motion in flexion and abduction is 110° and passive range of motion in flexion and abduction is 135°. What is the MOST likely cause of the decreased active range of motion?",
+        "options": [
+          "Extra-articular impingement",
+          "Intra-articular blockage",
+          "Shortened ligaments",
+          "Muscular weakness"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 52,
+        "question": "The PT observes winging of the medial border of the scapula when the client pushes her hand against a wall. Which of the following muscles is MOST likely weak and causing this sign?",
+        "options": [
+          "Rhomboid major",
+          "Serratus anterior",
+          "Serratus posterior",
+          "Middle fibres of trapezius"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 53,
+        "question": "When the PT is developing the treatment plan for the client, which of the following modalities can be included?",
+        "options": [
+          "LASER",
+          "Interferential current",
+          "Short wave diathermy",
+          "Transcutaneous electrical nerve stimulation"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 50-year-old woman attends outpatient physiotherapy at a rehabilitation centre eight weeks after a right radical mastectomy. She is currently undergoing chemotherapy and shows signs of lymphedema in the right upper extremity.",
+    "questions": [
+      {
+        "id": 54,
+        "question": "Which of the following findings indicate that the client has stage I lymphedema?",
+        "options": [
+          "Hardening of dermal tissues and pitting edema",
+          "A feeling of fullness in the extremity and no edema",
+          "Swelling that decreases with elevation and pitting edema",
+          "A feeling of fullness in the extremity and significant edema"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 56,
+        "question": "During the maintenance phase of treatment for the client’s lymphedema, the PT provides a compression garment for the client’s arm. When should the client wear the garment?",
+        "options": [
+          "At night",
+          "At all times",
+          "During the day",
+          "During times of decreased activity"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 57,
+        "question": "Which of the following instructions should the PT include in the exercise guidelines for the client?",
+        "options": [
+          "Avoid dependent positioning of the right arm",
+          "Remove compressive garments during activity",
+          "Include static positioning of the right arm in the exercises",
+          "Decrease participation in cardiovascular conditioning exercises"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 68-year-old man who has low back pain attends physiotherapy at a private clinic. His X-ray report reveals osteophytic growths in the areas of the L4-L5, L5-S1 facet joints. He is diagnosed with degenerative disc disease and possible spinal stenosis. During the assessment, he reports that walking moderate distances increases his back pain and causes pain to travel down his legs.",
+    "questions": [
+      {
+        "id": 58,
+        "question": "During the assessment, which lumbar spine movements should the PT suspect will reproduce the client’s symptoms?",
+        "options": [
+          "Flexion",
+          "Rotation",
+          "Extension",
+          "Side flexion"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 59,
+        "question": "The PT gives the client verbal instructions on abdominal exercises. The client has difficulty understanding how to do them. What should the PT do?",
+        "options": [
+          "Replace the abdominal exercises with different exercises",
+          "Demonstrate the abdominal exercises to the client",
+          "Show the client a video of abdominal exercises",
+          "Write out the instructions for the client"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 60,
+        "question": "When documenting the session in the client’s chart, which of the following statements should go into the objective section of the note?",
+        "options": [
+          "Feeling of weakness when walking on treadmill",
+          "Increased pain with walking downhill on a treadmill",
+          "Walks for 20 minutes on a treadmill while holding pelvic tilt",
+          "Transient tingling in both thighs when walking on a treadmill"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 61,
+        "question": "The client wants to buy a natural supplement that he learned about through an advertisement. He tells the PT that the supplement helps prevent degeneration of the spinal joints. How should the PT respond?",
+        "options": [
+          "Advise the client to speak with his pharmacist about the supplement",
+          "Provide the client with evidence-based guidelines on the supplement",
+          "Explain that the natural supplement cannot reverse the degeneration of the spinal joints",
+          "Recommend that the client continue taking his prescribed medication while taking the natural supplement"
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 74-year-old man was admitted to a hospital for a proximal tibial fracture. Soon after, he developed osteomyelitis with systemic signs of infection. The complication required a transfemoral amputation. He is referred for inpatient physiotherapy.",
+    "questions": [
+      {
+        "id": 62,
+        "question": "After the amputation, which of the following hip positions should be encouraged?",
+        "options": [
+          "Flexion and slight abduction",
+          "Flexion and slight adduction",
+          "Extension and slight abduction",
+          "Extension and slight adduction"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 63,
+        "question": "Ward staff report that the client has become anxious since his amputation and is reluctant to attend physiotherapy treatments. The client tells the PT that he is worried about how he will manage daily activities on his own when he goes home, and that he is concerned about his finances. What should the PT do?",
+        "options": [
+          "Review the purpose of physiotherapy relating to his initial goals",
+          "Discuss the client’s concerns with the team’s social worker",
+          "Refer the client to a psychiatrist if the client consents",
+          "Teach the client stress management techniques"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 64,
+        "question": "The client is referred to outpatient physiotherapy after discharge and is fitted with a prosthesis. As initial gait training begins, he reports consistent discomfort with the socket, which affects his ability to walk. Which of the following actions is MOST appropriate for the PT to take?",
+        "options": [
+          "Adjust the client’s prosthetic device",
+          "Encourage the client to explain his concerns to the prosthetist",
+          "Consult with the prosthetist regarding prosthetic modifications",
+          "Contact the client’s physician regarding a prosthetic prescription change"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 65,
+        "question": "The client can now walk independently with his prosthesis, but has not achieved his goal of improving his balance for walking in his community. Which of the following strategies should be taught to help the client react to perturbations?",
+        "options": [
+          "Ankle and hip strategies",
+          "Ankle and reaching strategies",
+          "Suspensory and hip strategies",
+          "Stepping and reaching strategies"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 51-year-old man is in an acute care hospital with aspiration pneumonia. He has amyotrophic lateral sclerosis and a history of frequent falls.",
+    "questions": [
+      {
+        "id": 66,
+        "question": "The PT observes that the client’s blood gases show a pattern of hypoventilation. Which of the following lab values indicates hypoventilation?",
+        "options": [
+          "pCO₂ = 25 mm Hg",
+          "pCO₂ = 55 mm Hg",
+          "pO₂ = 65 mm Hg",
+          "pO₂ = 81 mm Hg"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 67,
+        "question": "The client’s spouse asks the PT if there is anything she can do to help her husband avoid developing aspiration pneumonia again. Which of the following is the MOST appropriate action for the PT to take?",
+        "options": [
+          "Educate the client on the use of a home suction unit",
+          "Teach the client to perform an assisted cough",
+          "Refer the client for a swallowing assessment",
+          "Recommend a liquid diet"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 68,
+        "question": "The PT is planning for discharge. Given the client’s history of falls, which of the following outcome measures is MOST appropriate for the PT to use?",
+        "options": [
+          "Timed Up and Go Test",
+          "Berg Balance Scale",
+          "Motor Recovery Scale",
+          "Functional Independence Measure"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 69,
+        "question": "The client’s spouse is concerned that she will not be able to manage her husband’s care needs when he goes home. Which of the following is the MOST appropriate response to the wife’s concern?",
+        "options": [
+          "Refer her to the social worker on the team for support",
+          "Suggest that she seek support from family members",
+          "Assure her that her husband is improving daily",
+          "Advise her to find a caregiver support group"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 2-month-old baby girl who has left congenital muscular torticollis is brought by her parents to physiotherapy at a paediatric hospital.",
+    "questions": [
+      {
+        "id": 70,
+        "question": "During the initial assessment, the PT notices the presence of an asymmetric tonic neck reflex. Which of the following courses of action is MOST appropriate for the PT to take?",
+        "options": [
+          "Teach the parents exercises to alleviate this reflexive movement",
+          "Refer the parents to a neurologist for further assessment",
+          "Re-examine the baby using a different reflex hammer",
+          "Continue the assessment"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 71,
+        "question": "Which of the following passive neck movements should the PT expect to find are restricted due to the baby’s left torticollis?",
+        "options": [
+          "Left side flexion and left rotation",
+          "Left side flexion and right rotation",
+          "Right side flexion and left rotation",
+          "Right side flexion and right rotation"
+        ],
+        "answer": 2
+      },
+      {
+        "id": 72,
+        "question": "There is a seven-month waiting list for physiotherapy at the hospital for babies with plagiocephaly. The PT and their colleagues decide that they must take a more proactive approach to preventing this condition. Which of the following approaches is the BEST long-term solution to prevent plagiocephaly in babies?",
+        "options": [
+          "Refer babies with plagiocephaly to private practice physiotherapy",
+          "Educate community post-partum nurses on prevention",
+          "Advocate for the use of soft mattresses in cribs",
+          "Promote sleeping in the side-lying position"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 70-year-old woman requires home physiotherapy following a recent diagnosis of a spinal tumour that has resulted in posterior cord syndrome. She has a wide-based, high-stepping gait pattern and is having trouble ambulating in her apartment. She has a past medical history of breast cancer and coronary artery disease. She has a son who lives close by and provides support for her as needed.",
+    "questions": [
+      {
+        "id": 73,
+        "question": "During the assessment, the client states that her son wants to meet with the PT to discuss recommendations for her care. The client informs the PT that her son is unaware of the past diagnosis of breast cancer and asks the PT not to tell him about it. Which of the following actions is MOST appropriate?",
+        "options": [
+          "Assure the client that her wishes will be respected.",
+          "Refer the client to a social worker for emotional support.",
+          "Encourage the client to speak with her son regarding the diagnosis.",
+          "Contact the client’s physician about the family’s lack of communication."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 74,
+        "question": "Which of the following tests should the PT perform to assess the client’s dynamic standing balance?",
+        "options": [
+          "Tandem Romberg Test",
+          "Single-leg stance",
+          "Timed Up and Go Test",
+          "Functional Reach Test"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 75,
+        "question": "The client reports that she often falls at night when she walks to the bathroom. During assessment, the PT identifies normal lower extremity muscle strength and absent joint position sense. What is the MOST appropriate next step for the PT to take?",
+        "options": [
+          "Recommend the use of an ambulatory aid",
+          "Assess the client’s ability to walk to the bathroom",
+          "Teach the client to watch her feet while she is walking",
+          "Recommend that the client be assessed for a wheelchair"
+        ],
+        "answer": 1
+      },
+      {
+        "id": 76,
+        "question": "During a treatment session, the client reports feeling tired and nauseated, and sits down. While resting, the client states that she has left shoulder and arm pain. Which of the following actions is the MOST appropriate for the PT to take?",
+        "options": [
+          "Call emergency medical services",
+          "Refer the client back to her family physician",
+          "Instruct the client to lie down until she is feeling better",
+          "Contact the client’s daughter to come and stay with her mother"
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 44-year-old woman who has rheumatoid arthritis is referred to outpatient physiotherapy at a rehabilitation centre. She has a 12-year history of extensive joint involvement and is having an acute exacerbation of her symptoms.",
+    "questions": [
+      {
+        "id": 77,
+        "question": "Which of the following signs and symptoms should the PT expect the client to have?",
+        "options": [
+          "Symmetric arthritis, arthritis of two or more joint areas, morning stiffness, and rheumatoid nodules",
+          "Asymmetric arthritis, arthritis of two or more joint areas, morning stiffness, and radiographic changes of involved joints",
+          "Symmetric arthritis, arthritis of three or more joint areas, morning stiffness, and decreased erythrocyte sedimentation rate",
+          "Asymmetric arthritis, arthritis of two or more joint areas, abnormal amounts of serum rheumatoid factor, and radiographic changes of involved joints"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 78,
+        "question": "During the active inflammatory period, what are the initial short-term goals of physiotherapy for the client?",
+        "options": [
+          "Relieve pain and decrease inflammation",
+          "Relieve pain and increase range of motion",
+          "Increase strength and decrease inflammation",
+          "Increase strength and increase range of motion"
+        ],
+        "answer": 0
+      },
+      {
+        "id": 79,
+        "question": "Which part of the client’s care can the PT assign to the physiotherapist assistant?",
+        "options": [
+          "Planning for discharge",
+          "Assessing the client’s gait",
+          "Progressing the client’s walking aids",
+          "Applying thermal and electrotherapeutic modalities"
+        ],
+        "answer": 3
+      },
+      {
+        "id": 80,
+        "question": "Which of the following considerations should the PT keep in mind when assigning parts of the client’s care to the physiotherapist assistant (PTA)?",
+        "options": [
+          "The PT can assign any treatment for which the PTA is qualified",
+          "The PT is responsible and accountable for all of the client’s care, including the PTA’s tasks",
+          "The PT is only responsible for the care provided by the PTA when the PT is physically present",
+          "The PT is not responsible for tasks performed by a PTA that are beyond the PT’s competencies"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "An 11-year-old boy is in the Emergency Department of an acute care facility with an acute asthma attack. He requires physiotherapy.",
+    "questions": [
+      {
+        "id": 81,
+        "question": "Which of the following pulmonary function test findings should the PT expect to see in the client’s chart?",
+        "options": [
+          "Increased vital capacity (VC).",
+          "Increased residual volume (RV).",
+          "Increased forced expiratory volume (FEV).",
+          "Reduced functional residual capacity (FRC)."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 82,
+        "question": "Before auscultating the client, the PT must clean their stethoscope. Which of the following statements describes best practice?",
+        "options": [
+          "Wipe the bell and diaphragm before and after touching each client.",
+          "Wipe the bell, diaphragm, and tubing before and after touching each client.",
+          "Wipe the bell and diaphragm after touching a client who has contact precautions.",
+          "Wipe the bell, diaphragm, and tubing before touching a client who has contact precautions."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 83,
+        "question": "Which of the following signs is the PT MOST likely to observe during the initial assessment?",
+        "options": [
+          "Inspiratory grunting.",
+          "Paradoxical breathing.",
+          "Diaphragmatic breathing.",
+          "Increased respiratory rate."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 84,
+        "question": "What should the initial focus of physiotherapy treatment be for the client?",
+        "options": [
+          "Bronchial drainage with percussion and vibration.",
+          "Relaxation and controlled diaphragmatic breathing.",
+          "Supported coughing and modification of physical activities.",
+          "Exercises to facilitate thoracic mobility with deep breathing."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 36-year-old man is in an acute care facility with shortness of breath and malaise. He is human immunodeficiency virus (HIV) positive. He is referred to physiotherapy for assessment and treatment.",
+    "questions": [
+      {
+        "id": 85,
+        "question": "Which of the following types of medication should the PT expect that the client is taking?",
+        "options": [
+          "Anti-viral drugs.",
+          "Anti-psychotic drugs.",
+          "Anti-coagulant drugs.",
+          "Anti-inflammatory drugs."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 86,
+        "question": "The PT is preparing to perform a chest assessment on the client. There is no sign on the client’s door requiring any special precautions. What should the PT do?",
+        "options": [
+          "Wear a mask for the client’s protection.",
+          "Observe universal/standard precautions.",
+          "Wear a gown and gloves for self-protection.",
+          "Ask the physician if the client requires isolation."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 88,
+        "question": "The client’s family meets the PT outside the client’s room. They ask whether his HIV status has progressed to acquired immunodeficiency syndrome (AIDS). What should the PT do?",
+        "options": [
+          "Review the client’s chart and inform the family.",
+          "Advise the family to speak to the client’s physician.",
+          "Inform the family that this information is confidential.",
+          "Tell the family that this information is not within the PT’s scope of knowledge."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 54-year-old man is in an acute care hospital for bacterial septic arthritis of his left knee. His knee was aspirated and treated with intravenous antibiotic therapy. He requires physiotherapy.",
+    "questions": [
+      {
+        "id": 89,
+        "question": "On day two after his admission, the client asks the PT what he can do to aid his own recovery. What is the MOST important instruction to give the client?",
+        "options": [
+          "Do isometric quadriceps exercises.",
+          "Apply cold packs to the knee frequently.",
+          "Massage the soft tissue around the knee.",
+          "Perform gentle range of motion exercises of the knee."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 90,
+        "question": "The client has begun crutch walking with supervision. The PT plans on assigning this task to a physiotherapist assistant (PTA) who has never done this before. What must the PT do before assigning this task to the PTA?",
+        "options": [
+          "Teach the PTA proper crutch walking supervision techniques.",
+          "Give the PTA instructional materials to review on crutch walking.",
+          "Tell the PTA to practice this task with another experienced PTA.",
+          "Ensure that the PTA watches training videos and completes testing modules."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 91,
+        "question": "While doing exercises with the physiotherapist assistant (PTA), the client tells the PTA that he feels unwell. The client’s vital signs are normal. The PTA reports this to the PT. What should the PT do next?",
+        "options": [
+          "Contact the client’s family and ask how they would like to proceed.",
+          "Tell the PTA to continue exercises and monitor vital signs during the session.",
+          "Take the client’s vital signs again and notify the client’s physician about the incident.",
+          "Ask a nurse to assess the client and tell the client that his appointment is rescheduled to the next day."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 92,
+        "question": "When is it appropriate for the PT to introduce vigorous exercise and mobilization activities?",
+        "options": [
+          "Immediately after the client completes antibiotic therapy.",
+          "When the client can tolerate full weight-bearing.",
+          "Ten days after aspiration of the client’s knee.",
+          "When signs of infection have resolved."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 93,
+        "question": "After getting permission from the hospital, the client arranges for a private PT to supplement the treatment he is already receiving. What should the PT do?",
+        "options": [
+          "Document clear treatment goals and interventions for the private PT to follow.",
+          "Connect with the private PT to ensure that goals and approaches do not conflict.",
+          "Reduce the frequency of the client’s treatment and assign more of his care to the physiotherapist assistant.",
+          "Ask the client what he believes is missing from the current treatment plan and modify it based on his feedback."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 50-year-old man is attending a private physiotherapy clinic for concerns related to a 10-year history of type 1 diabetes mellitus.",
+    "questions": [
+      {
+        "id": 94,
+        "question": "During assessment of the client’s feet, which of the following sensory and circulatory changes should the PT expect to find?",
+        "options": [
+          "Decreased sensation and decreased circulation.",
+          "Decreased sensation and increased circulation.",
+          "Hypersensitivity and decreased circulation.",
+          "Hypersensitivity and increased circulation."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 95,
+        "question": "After using a stationary bicycle for 30 minutes, the client mentions that he feels shaky, and the PT observes that he is pale and sweaty. After stopping the exercise, what must the PT do next?",
+        "options": [
+          "Tell the client to rest for a few minutes.",
+          "Instruct the client to take insulin.",
+          "Call the client’s family physician.",
+          "Give the client orange juice."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 96,
+        "question": "Which of the following long-term complications should the PT instruct the client to be mindful of, given his diagnosis of type 1 diabetes?",
+        "options": [
+          "Heart disease, peripheral vascular disease, and peripheral neuropathy.",
+          "Nephropathy, peripheral vascular disease, and osteoarthritis.",
+          "Nephropathy, lung disease, and peripheral neuropathy.",
+          "Heart disease, osteoporosis, and osteoarthritis."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 62-year-old man is in the cardiac care unit of an acute care facility after having a myocardial infarction. He has a 20-pack-year smoking history and is overweight. He is medically stable and is referred for physiotherapy.",
+    "questions": [
+      {
+        "id": 97,
+        "question": "Which of the following goals should be included in the early objectives for the client?",
+        "options": [
+          "Decrease pain and modify unhealthy behaviours.",
+          "Increase VO2 max and modify unhealthy behaviours.",
+          "Reduce anxiety and restore independence in activities of daily living.",
+          "Improve bed mobility and restore independence in activities of daily living."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 98,
+        "question": "While the client is transferring from the wheelchair to the bed, he loses his balance, and the PT lowers him to the ground. After returning the client to his bed and confirming that no injury has occurred, what action must the PT take?",
+        "options": [
+          "Document the event.",
+          "Contact the client's family.",
+          "Notify the client care manager.",
+          "Plan to revisit the client later in the day."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 99,
+        "question": "The client is improving, and the PT progresses his exercise program. As the program intensity increases, which of the following responses should prompt the PT to terminate the client's exercise session?",
+        "options": [
+          "Onset of dizziness.",
+          "Onset of muscle soreness.",
+          "Increase in blood pressure.",
+          "Increase in perceived exertion."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 74-year-old man who has Alzheimer's disease attends physiotherapy at a private clinic due to a painful right shoulder. He has been declared legally incompetent and is accompanied by his caregiver for all appointments. Initial assessment findings suggest that he has supraspinatus tendonitis; however, sensory testing is unreliable.",
+    "questions": [
+      {
+        "id": 100,
+        "question": "The client's physician intends to order more diagnostic tests. Which of the following procedures provides the MOST definitive information to confirm supraspinatus tendonitis?",
+        "options": [
+          "Arthrogram.",
+          "Diagnostic ultrasound.",
+          "Plain film radiography.",
+          "Magnetic resonance imaging."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 101,
+        "question": "The client's physician asks the PT to use interferential current (IFC) therapy. What should the PT do?",
+        "options": [
+          "Request permission from the client's legal guardian before starting IFC.",
+          "Document the physician's specific request but use ultrasound instead.",
+          "Add IFC to the client's treatment and monitor him closely.",
+          "Inform the client's physician that IFC is contraindicated."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 102,
+        "question": "To optimize the client's treatment outcomes, which of the following courses of action is MOST important for the PT to take?",
+        "options": [
+          "Give the client exercise pamphlets with pictures.",
+          "Keep the client's physician informed of treatment goals and outcomes.",
+          "Teach the client's caregiver proper resting positions and exercises for the client.",
+          "Recommend that the client receive treatment at the clinic three times per week."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 14-year-old boy who has haemophilia is receiving factor replacement therapy for acute haemarthrosis of the left knee. He has had three other haemarthroses in this joint, which has resulted in chronic synovitis. He is referred to an outpatient physiotherapy clinic.",
+    "questions": [
+      {
+        "id": 103,
+        "question": "During the initial assessment of the client's left knee, what should the PT evaluate?",
+        "options": [
+          "Isometric strength.",
+          "Ligamentous integrity.",
+          "Active range of motion.",
+          "Passive range of motion with overpressure."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 104,
+        "question": "Which of the following findings should the PT expect to be present during the assessment of the client's left knee?",
+        "options": [
+          "Joint crepitus.",
+          "Joint instability.",
+          "Warmth on palpation.",
+          "Altered light touch sensation."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 105,
+        "question": "Which of the following objectives should the PT prioritize for the client?",
+        "options": [
+          "Improve exercise tolerance.",
+          "Return to baseline activities.",
+          "Adhere to joint protection strategies.",
+          "Improve awareness of coping mechanisms."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 25-year-old woman attends physiotherapy at a private clinic for carpal tunnel syndrome in her left hand.",
+    "questions": [
+      {
+        "id": 106,
+        "question": "Which of the following conditions is MOST likely included in the client's past medical history?",
+        "options": [
+          "Scaphoid fracture.",
+          "Radial head fracture.",
+          "Dupuytren's contracture.",
+          "Tenosynovitis of the flexor tendons."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 107,
+        "question": "In which muscles should the PT expect to find atrophy and weakness?",
+        "options": [
+          "Flexor pollicis longus and palmaris brevis.",
+          "Opponens pollicis and abductor pollicis brevis.",
+          "Abductor digiti minimi and opponens digiti minimi.",
+          "Flexor carpi radialis and flexor digitorum superficialis."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 108,
+        "question": "In which areas should the PT expect the client to have sensory disturbance?",
+        "options": [
+          "Palmar surface of the arm and forearm, and dorsal surfaces of the thumb, index, and middle fingers.",
+          "Dorsal and palmar surfaces of the little finger and half of the ring finger, and the hypothenar eminence.",
+          "Dorsal surface and tips of the index and middle fingers, half of the ring finger, and the dorsal surface of the thumb.",
+          "Palmar surface and tips of the index and middle fingers, half of the ring finger, and the palmar surface of the thumb."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 45-year-old woman attends a private physiotherapy clinic for pain on the right side of the neck. She works as a receptionist but is currently unable to work due to pain. She spends most of her workday taking phone calls with her head side flexed to the right and rotated to the left. She has been doing this job for five years.",
+    "questions": [
+      {
+        "id": 109,
+        "question": "In what muscle should the PT expect to find the MOST adaptive shortening?",
+        "options": [
+          "Middle scalenes.",
+          "Anterior scalenes.",
+          "Sternocleidomastoid.",
+          "Upper fibres of trapezius."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 110,
+        "question": "The client is concerned that her work set-up is contributing to her pain. In addition to obtaining a headset for phone calls, which of the following recommendations will MOST likely help the client improve her workstation?",
+        "options": [
+          "Position the chair seat height so her knees are slightly above her hips, and set the keyboard height just above elbow height.",
+          "Set the chair back inclination to 110°–120°, and set the keyboard height so that her shoulders are flexed 25° or less.",
+          "Position the chair seat height so her knees are level with her hips, and set the keyboard height at elbow level.",
+          "Set the chair back inclination to 90°, and set the keyboard height at elbow level."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 111,
+        "question": "The client occasionally experiences cervicogenic headaches. The PT plans to include soft-tissue techniques in the client's treatment. Which of the following reports from the client's history may be a precaution to performing soft-tissue massage?",
+        "options": [
+          "Pain.",
+          "Depression.",
+          "Anorexia nervosa.",
+          "History of physical abuse."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 112,
+        "question": "The PT determines that the client is ready to return to work; however, the client feels that she is not ready. What should the PT do?",
+        "options": [
+          "Suggest a career change and refer the client to vocational counselling.",
+          "Listen to the client's concerns and explain why she is ready to return to work.",
+          "Discharge the client and advise that she should not return to work until she feels ready.",
+          "Extend the client's program for two weeks and continue the same functional retraining exercises."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 37-year-old man is in an acute care facility for a resection of a cerebellar astrocytoma. He is currently undergoing chemotherapy and radiation therapy. He requires post-operative physiotherapy assessment and treatment.",
+    "questions": [
+      {
+        "id": 113,
+        "question": "On initial assessment, the PT identifies that the client has balance impairments. Which of the following assessment tools should the PT use to determine a baseline for functional balance?",
+        "options": [
+          "Romberg Test.",
+          "Berg Balance Scale.",
+          "Functional Reach Test.",
+          "Functional Independence Measure."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 114,
+        "question": "The client is making slow, steady progress with his mobility post-operatively. During his physiotherapy session today, he reports fatigue and requires more frequent rests. What is the MOST likely cause of the client’s fatigue?",
+        "options": [
+          "Side effects of radiation.",
+          "Post-operative infection.",
+          "Recurrence of the brain tumour.",
+          "Depression due to his prognosis."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 115,
+        "question": "The PT is having difficulty treating the client as frequently as required due to having a large caseload. The PT’s colleagues are experiencing the same concerns with managing client care demands. What is the BEST course of action for the PT to take?",
+        "options": [
+          "Reduce the duration and frequency of treatment sessions for all clients.",
+          "Speak to management to report concerns and discuss potential solutions.",
+          "Encourage clients to make complaints to management and on social media.",
+          "Enable the physiotherapist assistants to become more independent in treatment planning."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 116,
+        "question": "The client’s mobility has improved. He is now using a cane with supervision, or a two-wheeled walker independently. He requires a rest after walking 5 to 10 m (16 to 33 ft) with the cane, and 20 m (66 ft) with the walker. He wants to be able to participate in family outings again. Which of the following recommendations should the PT make to meet his needs upon discharge?",
+        "options": [
+          "A two-wheeled walker for independent indoor, outdoor, and long-distance use.",
+          "A cane for indoor use with supervision, and a wheelchair for outdoor use and long distances.",
+          "A cane for indoor use with supervision, and a two-wheeled walker for outdoor use and long distances.",
+          "A two-wheeled walker for independent indoor use, and a wheelchair for outdoor use and long distances."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 66-year-old man had an open cholecystectomy two days ago. He has a low-grade fever and reports significant pain around the incision. He has a weak and ineffective cough, and decreased right lateral costal expansion. The PT’s auscultation findings include decreased breath sounds and fine end-inspiratory crackles over the right lower lobe.",
+    "questions": [
+      {
+        "id": 117,
+        "question": "Which of the following conditions should the PT suspect is the cause of the client’s pulmonary complications?",
+        "options": [
+          "Chest infection.",
+          "Pulmonary embolism.",
+          "Congestive heart failure.",
+          "Acute respiratory distress syndrome."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 118,
+        "question": "Which other pulmonary complication is the PT MOST likely to expect?",
+        "options": [
+          "Atelectasis.",
+          "Consolidations.",
+          "Pneumothorax.",
+          "Mediastinal shift."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 119,
+        "question": "While treating the client, the PT notices that he has difficulty coughing, even with splinting techniques. What should the PT do?",
+        "options": [
+          "Perform an abdominal thrust.",
+          "Teach the client the huffing technique.",
+          "Educate the client on how to use an incentive spirometer.",
+          "Encourage the client to tolerate the pain during splinted coughing."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 42-year-old man attends a private physiotherapy clinic for right knee pain. He fell 10 days ago while downhill skiing. He reports pain and swelling in the medial aspect of the right knee and locking.",
+    "questions": [
+      {
+        "id": 120,
+        "question": "The PT suspects a medial collateral ligament tear and a possible meniscal injury. Which tests should the PT perform to confirm this diagnosis?",
+        "options": [
+          "Lachman and Varus stress tests.",
+          "Lachman and Valgus stress tests.",
+          "McMurray and Varus stress tests.",
+          "McMurray and Valgus stress tests."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 121,
+        "question": "How should the PT position the client’s knee to test the stability of the medial aspect of the tibiofemoral joint?",
+        "options": [
+          "0° to 30° of flexion.",
+          "30° to 60° of flexion.",
+          "60° to 90° of flexion.",
+          "Internal and external rotation."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 122,
+        "question": "The client undergoes a right medial meniscectomy and returns to the clinic on post-operative day one. What should the initial physiotherapy intervention include?",
+        "options": [
+          "Quadriceps over roll with a light weight.",
+          "Lunges restricted to 60° knee flexion.",
+          "Closed chain hip and knee extension.",
+          "Quadriceps setting exercises."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 55-year-old woman who has osteoporosis attends a private physiotherapy clinic for back pain.",
+    "questions": [
+      {
+        "id": 123,
+        "question": "Which of the following postural abnormalities is the PT MOST likely to observe in the client?",
+        "options": [
+          "Increased cervical flexion.",
+          "Increased lumbar lordosis.",
+          "Increased lower thoracic kyphosis.",
+          "Increased upper thoracic kyphosis."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 124,
+        "question": "The PT discusses the goals of treatment with the client. Which of the following benefits is an expected treatment outcome?",
+        "options": [
+          "Prevention of further bone and muscle degeneration.",
+          "Correction of spinal postural deformities.",
+          "Elimination of localized back pain.",
+          "Increase in bone density."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 125,
+        "question": "What should the PT include in the treatment program to help manage the client’s back pain?",
+        "options": [
+          "Spinal flexion exercises, postural re-education, and balance exercises.",
+          "Spinal extension exercises, abdominal curls, and balance exercises.",
+          "Spinal extension exercises, stretching, and postural re-education.",
+          "Spinal flexion exercises, abdominal curls, and stretching."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 126,
+        "question": "The PT determines that the client is ready for discharge because her recovery has reached a plateau. The PT discusses this with the client; however, the client does not agree and insists on continuing weekly treatments, saying she feels better when attending physiotherapy. Which of the following actions is MOST appropriate for the PT to take?",
+        "options": [
+          "Document the client’s preference and discharge her as planned.",
+          "Discontinue treatment but keep the client’s chart open for three weeks.",
+          "Explain that continued treatment is not needed and reinforce the self-management program.",
+          "Inform the client that no further progress is expected with physiotherapy, but postpone discharge for two weeks."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 56-year-old man is admitted to a hospital with a sudden onset of difficulty speaking and moving the right side of his body. He is diagnosed with a left middle cerebral artery stroke.",
+    "questions": [
+      {
+        "id": 127,
+        "question": "Which of the following clinical signs is the PT MOST likely to observe in the client?",
+        "options": [
+          "Nystagmus, decreased coordination, and dysarthria.",
+          "Apraxia, greater loss of motor control in the arm than in the leg, and nystagmus.",
+          "Aphasia, greater loss of motor control in the arm than in the leg, and hemianopsia.",
+          "Neglect, greater loss of motor control in the leg than in the arm, and loss of coordination."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 128,
+        "question": "The client’s right arm is flaccid. Which of the following interventions should the PT use to maintain the range of motion in the client’s arm?",
+        "options": [
+          "Passive and active range of motion.",
+          "Overhead pulleys and passive mobilization.",
+          "Passive range of motion and scapular mobilization.",
+          "Overhead pulleys and auto-assisted range of motion."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 129,
+        "question": "After a couple of weeks of physiotherapy, the client can walk without assistance. Which of the following activities is the MOST advanced gait training task that the PT could use for the client?",
+        "options": [
+          "Walking in time to a metronome.",
+          "Stepping over and around various objects.",
+          "Walking on footsteps marked on the floor.",
+          "Shifting weight forward and backward with one foot on a step."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 130,
+        "question": "The client has been making significant progress and is ready to start home-based rehabilitation. He asks the PT for recommendations on the latest technology to help him recover faster. How should the PT proceed?",
+        "options": [
+          "Do a search on emerging evidence-based stroke rehabilitation technology and discuss the findings with the client.",
+          "Recommend that the client attend a private clinic specializing in robotic technology for neurological conditions and provide him a list of options.",
+          "Explain to the client that stroke rehabilitation technology is still relatively new and inconclusive and encourage adherence to regular physiotherapy.",
+          "Review the progress achieved through regular physiotherapy and advise the client to concentrate on home-based rehabilitation before pursuing other therapies."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 34-year-old man attends an interprofessional clinic for treatment of chronic low back pain. He has severe strength and movement limitations due to disuse. He has difficulties with performing activities of daily living and has been unable to work as a truck driver since sustaining a muscle strain while loading his truck two years ago. He has seen a variety of physicians and other health professionals. He is currently seeing a psychiatrist for treatment of depression.",
+    "questions": [
+      {
+        "id": 131,
+        "question": "The client frequently fails to attend or appears drowsy during morning physiotherapy appointments. He has been prescribed two antidepressant tablets at bedtime, but reports that he frequently increases this to three tablets because pain affects his sleep. Which of the following courses of action is MOST appropriate for the PT to take?",
+        "options": [
+          "Contact the client’s physician to discuss the need for an appropriate analgesic.",
+          "Advise the client to contact his physician and seek counselling for potential drug abuse.",
+          "Discourage the client from adjusting his own medications and advise him to contact his physician.",
+          "Change the client’s appointments to the afternoon so that physiotherapy sessions will be more productive."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 132,
+        "question": "The PT asks the physiotherapist assistant (PTA) to apply a hot pack to the client’s lower back. The client did not report that the hot pack was too hot, but the PTA finds a burn in the area after the intervention. Who is responsible for this incident?",
+        "options": [
+          "The PT.",
+          "The PTA.",
+          "Both the PT and the PTA.",
+          "Both the PT and the client."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 133,
+        "question": "The client informs the PT that he occasionally drinks whisky to help relieve his pain. Today, the PT notices the smell of alcohol on the client’s breath. Which of the following courses of action is MOST important for the PT to take?",
+        "options": [
+          "Counsel the client to try to avoid alcohol, and stop the treatment session.",
+          "Discuss this incident with the interprofessional team after the treatment.",
+          "Explain safety concerns regarding using alcohol during treatment with the client.",
+          "Pretend to not notice, as this may embarrass the client, and proceed with treatment."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 134,
+        "question": "After four weeks, the client is ready for discharge. He understands that he must continue doing exercises for self-management of his back pain, but requests a few more treatment sessions. What should the PT do?",
+        "options": [
+          "Continue treatment if the client has remaining insurance coverage.",
+          "Report the client to his insurance company for trying to overuse benefits.",
+          "Ask the referring physician for approval to continue the client’s treatments.",
+          "Discontinue treatment because the client’s physiotherapy goals have been achieved."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 45-year-old woman is attending physiotherapy in an acute care facility after sustaining a partial-thickness burn to the back of her left hand in a workplace fire.",
+    "questions": [
+      {
+        "id": 135,
+        "question": "The PT applies a dressing to hold a topical agent on the wound. What is the benefit of using a closed dressing technique?",
+        "options": [
+          "It reduces fluid loss and protects the wound.",
+          "It reduces fluid loss and prevents contractures.",
+          "It decreases vascularization and protects the wound.",
+          "It decreases vascularization and prevents contractures."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 136,
+        "question": "A skin graft is done over the client’s wrist and she is given a pressure garment. She tells the PT that she does not want to wear the pressure garment because it feels hot and uncomfortable. The PT discusses the benefits of the pressure garment to encourage the client to use it. What should the PT emphasize as the rationale for using a pressure garment?",
+        "options": [
+          "It slows scar maturation and controls edema.",
+          "It protects the graft and promotes hypertrophic scarring.",
+          "It prevents adhesions and discolouration of the skin graft sites.",
+          "It promotes scar maturation and minimizes hypertrophic scarring."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 137,
+        "question": "The client develops hyperaesthesia around the injured area. Which of the following techniques is MOST appropriate for desensitization?",
+        "options": [
+          "Immersion in a paraffin wax bath.",
+          "Rubbing with cloth.",
+          "Pulsed ultrasound.",
+          "Ice massage."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 138,
+        "question": "The client has stopped wearing her pressure garments against medical advice. She tells the PT that the garment will not help, since she believes that the appearance of her skin is permanently changed. The PT believes that the client will regret this decision and tells the client that her compensation payments and benefits will be discontinued if she does not cooperate fully with treatment. Why are the PT’s actions UNETHICAL?",
+        "options": [
+          "Information was withheld to coerce the client into making a decision.",
+          "Accurate information was provided, but treatment is being forced on the client.",
+          "Inaccurate information was provided to coerce the client into making a specific decision.",
+          "Information was given specifically for the purpose of directing the client to make the right decision."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "An 86-year-old woman is in an acute care hospital after falling down the front steps of her house. She had an open reduction and internal fixation of a left hip fracture. The PT receives a referral to assess and treat the client.",
+    "questions": [
+      {
+        "id": 139,
+        "question": "On the first post-operative day, the PT realizes that the degree of weight-bearing permitted is not indicated on the referral or in the client’s medical record. What is the MOST appropriate action for the PT to take?",
+        "options": [
+          "Start non-weight-bearing ambulation with the client.",
+          "Reschedule the client’s assessment for the next day.",
+          "Consult with a more experienced PT regarding weight-bearing protocol.",
+          "Delay ambulation until the client’s weight-bearing status is confirmed with the surgeon."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 140,
+        "question": "On the second post-operative day, the PT observes that the client’s left calf is swollen, and the client has pain on active and passive dorsiflexion. Which of the following is the MOST appropriate physiotherapy intervention?",
+        "options": [
+          "Request a reassessment by a physician.",
+          "Advise the client to decrease her activities today.",
+          "Instruct the client to walk within the limits of pain.",
+          "Perform passive range of motion exercises on the left leg."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 141,
+        "question": "On the sixth post-operative day, the PT notices that the client’s right hip drops during the left stance phase of ambulation with a two-wheeled walker. Which muscle is MOST likely weak and causing this deviation?",
+        "options": [
+          "Left gluteus medius.",
+          "Right gluteus medius.",
+          "Left gluteus minimus.",
+          "Right gluteus minimus."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 142,
+        "question": "Which of the following signs and symptoms should alert the PT to a possible failure of the client’s internal fixation mechanism?",
+        "options": [
+          "Leg length discrepancy and Trendelenburg gait.",
+          "Severe persistent groin pain during walking or limb movement.",
+          "Reflex inhibition and weakness during hip abduction and knee flexion.",
+          "Progressive internal rotation of the left limb and persistent thigh pain."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 48-year-old man was admitted to a hospital two days ago for severe low back pain. He is referred for physiotherapy assessment and treatment.",
+    "questions": [
+      {
+        "id": 143,
+        "question": "The client’s CT scan report indicates multiple masses in the lumbar vertebrae. When speaking with the client, the PT realizes that the client is unaware of the test results. The client asks the PT about his timeline for recovery. How should the PT respond?",
+        "options": [
+          "Explain to the client that recovery will likely be impacted by the masses in his lumbar spine.",
+          "Encourage the client to focus on his current level of function and set short term goals.",
+          "Tell the client that it is too early to set a timeline for recovery.",
+          "Recommend that the client speak with his physician."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 144,
+        "question": "Which of the following modalities is MOST appropriate to help treat the client’s pain?",
+        "options": [
+          "Cryotherapy.",
+          "Lumbar traction.",
+          "Low-level LASER therapy.",
+          "Transcutaneous electrical nerve stimulation."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 145,
+        "question": "The client is recovering after having the masses in his spine surgically removed. On assessment, the PT determines that the client has decreased air entry to the bases of his lungs. The PT instructs the client to do 10 deep breaths and cough every hour. What information must the PT include when documenting this treatment?",
+        "options": [
+          "A description of the intervention and the client’s baseline cardiorespiratory status.",
+          "A description of the intervention and the client’s response to the treatment.",
+          "The client’s response to the intervention and his current level of mobility.",
+          "The client’s current level of mobility and functional status."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 146,
+        "question": "The PT identifies that the client has grade 0/5 strength in bilateral dorsiflexors. Which of the following treatments will BEST address this impairment?",
+        "options": [
+          "Neuromuscular electrical stimulation.",
+          "Electromyographic biofeedback.",
+          "Active assisted range of motion.",
+          "Passive range of motion."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 26-year-old woman has a complete C7 (ASIA A) quadriplegia. Nine months after her injury, she attends physiotherapy in an outpatient rehabilitation centre. Before her injury, she was a competitive track and field athlete. She now wants to resume her athletic pursuits.",
+    "questions": [
+      {
+        "id": 147,
+        "question": "The PT chooses to do a maximal exercise test on the wheelchair ergometer to determine the client’s present state of fitness. As the test progresses and the work demands increase, what should the PT expect about the client’s heart rate (HR) response?",
+        "options": [
+          "The HR will remain at her resting HR level due to impaired sympathetic nervous system response.",
+          "The HR will approach the same maximal HR level she was capable of as a track and field athlete.",
+          "The HR will remain constant, as the wheelchair ergometer requires mostly upper extremity work.",
+          "The HR will increase initially and then plateau at a level below her pre-injury maximal HR."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 148,
+        "question": "To maximize the client’s efficiency in propelling her wheelchair, which of the following muscles should the PT encourage the client to strengthen?",
+        "options": [
+          "Biceps and triceps.",
+          "Brachioradialis and supinator.",
+          "Levator scapulae and latissimus dorsi.",
+          "Biceps and extensor carpi radialis longus."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 149,
+        "question": "After a few weeks of regular wheelchair ergometer training, the client develops calluses on her hands. What should the PT explain to the client?",
+        "options": [
+          "She should wear gloves to protect her hands.",
+          "She should change her grip on the rims of the wheels.",
+          "She should reduce training, as the calluses indicate over-training.",
+          "She should not be concerned, as her hands will toughen up with more training."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 150,
+        "question": "During a follow-up treatment session, the client tells the PT that she is concerned about not being able to get pregnant because of her injury. How should the PT respond?",
+        "options": [
+          "Tell the client that her ability to conceive a child is not impaired by her injury.",
+          "Inform the client that it is too early to determine her ability to have children.",
+          "Encourage the client to consult a psychologist to discuss her concerns.",
+          "Explain that fertility issues are outside the PT’s scope of practice."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 151,
+        "question": "Despite the client’s complete adherence to her physiotherapy program, she reports that she has been having more leg spasms over the past few days. What should the PT do?",
+        "options": [
+          "Design a system of straps to hold the client’s legs in place.",
+          "Decrease all of the client’s exercises until the spasms decrease.",
+          "Double the frequency of the client’s passive stretching routine.",
+          "Ask the client if she has experienced bowel or bladder problems recently."
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  {
+    "vignette": "A 43-year-old woman with a 20-year history of intermittent anterior right knee pain attends an outpatient physiotherapy clinic. She recently started a new job at a bookstore, which requires her to stock books on shelves at various heights. She reports that her pain recently worsened after several shifts.",
+    "questions": [
+      {
+        "id": 152,
+        "question": "Which of the following pathologies is MOST likely causing the client’s pain?",
+        "options": [
+          "Patellar chondromalacia.",
+          "Tibial tuberosity apophysitis.",
+          "Iliotibial band friction syndrome.",
+          "Anterior cruciate ligamentous instability."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 153,
+        "question": "Which of the following special tests should the PT perform to identify a physiotherapy diagnosis?",
+        "options": [
+          "Tibial Torsion Test.",
+          "Patellar Grind Test.",
+          "Anterior Drawer Test.",
+          "Patellar Apprehension Test."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 154,
+        "question": "The client is eager to decrease her pain and asks for the PT's opinion on taking oral pain medications. How should the PT respond?",
+        "options": [
+          "Advise the client to avoid pain medications and use ice instead.",
+          "Recommend that the client discuss pain medications with a pharmacist.",
+          "Suggest that the client try a topical non-steroidal anti-inflammatory instead.",
+          "Instruct the client to start taking oral medications according to the directions on the bottle."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 24-year-old man who has cystic fibrosis is in an acute care facility for treatment of pneumonia. He is referred for physiotherapy assessment and treatment.",
+    "questions": [
+      {
+        "id": 155,
+        "question": "What should be the focus of initial physiotherapy management for the client?",
+        "options": [
+          "Increase muscular endurance.",
+          "Increase secretion clearance.",
+          "Decrease energy expenditure.",
+          "Decrease the need for supplemental oxygen."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 156,
+        "question": "After postural drainage and percussion, how should the client be positioned to facilitate effective coughing?",
+        "options": [
+          "Side lying on a flat bed.",
+          "Crook lying on a flat bed.",
+          "Sitting with arms supported.",
+          "Semi-Fowler's with arms supported."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 157,
+        "question": "Which of the following signs should cause the PT to suspect that the client has a pulmonary infection?",
+        "options": [
+          "Increased cough.",
+          "Mid-thoracic pain.",
+          "Decreased respiratory rate.",
+          "Increased pulmonary function test values."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 158,
+        "question": "The client tells the PT that he is unclear about what his long-term rehabilitation goals should be. Which of the following actions BEST supports the client?",
+        "options": [
+          "Establish evidence-informed goals for the client.",
+          "Assist the client to develop his self-management plan.",
+          "Encourage the client to talk with peers to establish his goals.",
+          "Advise the client to discuss long-term options with his physician."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 35-year-old woman attends a private physiotherapy clinic for assessment and treatment of recurrent right arm pain and weakness that developed after a fall down a flight of stairs three weeks ago. She had similar symptoms two years ago, following a motor vehicle collision.",
+    "questions": [
+      {
+        "id": 159,
+        "question": "In which of the following muscles should the PT expect to find weakness if the C5 myotome is involved?",
+        "options": [
+          "Latissimus dorsi and brachioradialis.",
+          "Trapezius and levator scapulae.",
+          "Teres minor and rhomboids.",
+          "Serratus anterior and triceps."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 160,
+        "question": "The PT is considering using manual therapy as a treatment for the client. Which of the following factors is an absolute contraindication for both mobilizations and manipulations in the cervical spine?",
+        "options": [
+          "Central nervous system signs.",
+          "Third trimester of pregnancy.",
+          "Ligamentous laxity.",
+          "Severe pain."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 161,
+        "question": "The client tells the PT that she went to massage therapy last night. During reassessment this morning, the client describes symptoms of urinary retention and has shooting arm pain and increased weakness. What should the PT do?",
+        "options": [
+          "Refer the client to a physician for immediate medical attention.",
+          "Find out what treatment was provided by the massage therapist.",
+          "Include modalities in today's session that will decrease the pain.",
+          "Add pelvic floor exercises to the client's home program."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 23-year-old woman who has chronic right shoulder pain attends a physiotherapy clinic. She is an Olympic swimmer, and the PT has been following her care over the last eight years.",
+    "questions": [
+      {
+        "id": 162,
+        "question": "To reduce acute inflammation, which of the following recommendations is MOST important for the PT to make?",
+        "options": [
+          "Avoid painful activities.",
+          "Rest the right arm in a sling.",
+          "Use the left arm for activities of daily living.",
+          "Limit the use of the right arm to below shoulder height."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 163,
+        "question": "Which of the following accessory movements of the humeral head should the PT perform to decompress the client’s subacromial space?",
+        "options": [
+          "Cranial glides.",
+          "Caudal glides.",
+          "Anterior glides.",
+          "Posterior glides."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 164,
+        "question": "The PT is contacted by the media, asking for information about the client's ability to compete in the upcoming Olympic Games. How should the PT respond?",
+        "options": [
+          "Decline to provide information and discuss this with the client.",
+          "Discuss the injury and typical recovery timelines in general terms.",
+          "Confirm that the client requires physiotherapy but decline to discuss specifics.",
+          "Talk about the client’s chance of competing without mentioning her diagnosis."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "A 6-year-old boy is referred to an outpatient rehabilitation centre for right hemiplegia from an aneurysm. He walks using a quad cane and uses a wheelchair for long distances. He lives with his mother and grandmother.",
+    "questions": [
+      {
+        "id": 165,
+        "question": "The client arrives for his first physiotherapy appointment with his grandmother. What is the FIRST step that the PT must take to ensure informed consent is appropriately obtained?",
+        "options": [
+          "Explain the benefits and risks of physiotherapy to the client.",
+          "Ask the client’s grandmother to sign a written consent.",
+          "Call the client’s mother to obtain verbal consent.",
+          "Identify who is the client’s legal guardian."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 167,
+        "question": "After a few treatment sessions, the PT realizes that the client is struggling to complete his exercises due to a limited attention span. What should the PT do to improve the client’s exercise performance?",
+        "options": [
+          "Give the client more detailed information on the exercises.",
+          "Change the client’s treatment routine frequently.",
+          "Maintain a consistent treatment environment.",
+          "Reduce treatment to one exercise per session."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 54-year-old man attends a private physiotherapy clinic for intermittent pain in his low back and right thigh. His symptoms started six months ago, but he cannot recall a specific cause. The pain has worsened over the last two months. He and his wife began a walking program three months ago to lose weight.",
+    "questions": [
+      {
+        "id": 169,
+        "question": "During the assessment, the PT measures the client’s right leg to be 2 cm (0.8 in) longer than the left. Which of the following postural deviations should the PT expect to observe?",
+        "options": [
+          "Increased lumbar lordosis.",
+          "Decreased lumbar lordosis.",
+          "Lateral lumbar curve convex to the left.",
+          "Lateral lumbar curve convex to the right."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 170,
+        "question": "Two weeks after starting a program to improve control of the stabilizing muscles, there is little improvement in the client’s symptoms. The client reports that he understands the value of the exercises, but he does not do them. What is the MOST appropriate next step for the PT to take?",
+        "options": [
+          "Reinforce the benefits of the exercise program.",
+          "Suggest that the client complete the exercises with his wife.",
+          "Change the client’s exercise program to include more functional exercises.",
+          "Ask about the reasons for the client’s non-adherence to the exercise program."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 171,
+        "question": "The client’s wife expresses frustration to the PT about her husband’s slow progress. She believes that the walking program is causing her husband’s pain. She asks the PT to tell her husband to stop the walking program. Which of the following is the MOST appropriate response?",
+        "options": [
+          "Modify the client’s walking program to include cross-training activities.",
+          "Tell the wife that her husband’s care cannot be discussed with her.",
+          "Suggest that the wife speak to her husband about her concerns.",
+          "Advise the client to stop participating in the walking program."
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  {
+    "vignette": "A 46-year-old man attends outpatient physiotherapy for heel pain. He reports no known mechanism of injury. He works as a grocery store clerk and does not currently engage in any physical recreational activity. The pain began gradually two weeks ago.",
+    "questions": [
+      {
+        "id": 172,
+        "question": "What pain behaviour should lead the PT to suspect a diagnosis of plantar fasciopathy?",
+        "options": [
+          "Pain is constant.",
+          "Pain is worst at rest.",
+          "Pain gradually worsens throughout the day.",
+          "Pain is worst when getting out of bed in the morning."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 173,
+        "question": "In what position should the client’s foot be held while applying pressure to the calcaneus to confirm the diagnosis of plantar fasciopathy?",
+        "options": [
+          "Plantarflexion.",
+          "Dorsiflexion.",
+          "Inversion.",
+          "Eversion."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 174,
+        "question": "The PT determines that the client has plantar fasciopathy. What intervention is MOST important to include in the initial management for the client?",
+        "options": [
+          "Stretching.",
+          "Ice massage.",
+          "Activity modification.",
+          "Intrinsic foot muscle strengthening."
+        ],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "vignette": "A 62-year-old man, who was previously healthy, was taken to the Emergency Department of an acute care facility for a ruptured appendix. He had an emergency appendectomy and developed acute sepsis. He is now intubated and ventilated in the Intensive Care Unit. He is referred for physiotherapy.",
+    "questions": [
+      {
+        "id": 175,
+        "question": "What should the PT recommend to reduce the risk of other post-operative respiratory complications?",
+        "options": [
+          "Frequent position changes.",
+          "Lung volume augmentation.",
+          "15 to 20 minutes of mechanical vibration.",
+          "15 to 20 minutes of range of motion exercise."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 176,
+        "question": "On post-operative day four, the client is extubated and transferred to the medical unit. As the client progresses to ambulation with minimal support, the PT asks the physiotherapist assistant (PTA) to continue working with the client. Under the direction of the PT, which of the following tasks can the PTA take responsibility for?",
+        "options": [
+          "Assessing the client’s impairments and functional limitations.",
+          "Discussing the results of assessment with the client and family.",
+          "Contributing to the development and revision of the physiotherapy care plan.",
+          "Establishing and monitoring the physiotherapy treatment program."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 177,
+        "question": "When the PT enters the client's room on post-operative day five, the client's son tells the PT that he does not want his father to receive any further physiotherapy treatment. Which of the following actions is the BEST approach in managing this situation?",
+        "options": [
+          "Ensure that the son understands the role of physiotherapy in his father’s post-surgical care.",
+          "Ask the medical team if the son has authority to withdraw consent for medical interventions.",
+          "Discuss the son’s concerns about physiotherapy at rounds and ask the medical team for input.",
+          "Leave the room and inform the client’s nurse that the son has withdrawn consent for treatment."
+        ],
+        "answer": 0
+      }
+    ]
+  },
+  {
+    "vignette": "The remaining questions are all stand-alone questions.",
+    "questions": [
+      {
+        "id": 178,
+        "question": "A 33-year-old woman who has multiple sclerosis attends physiotherapy at a rehabilitation centre. A physiotherapist assistant (PTA) has been assigned some parts of her care. The PTA reports to the PT that the client has made good progress in the last two weeks, and the PTA wants to add new exercises and functional tasks into the client's program. Which of the following actions should the PT take next?",
+        "options": [
+          "Reassess the client.",
+          "Recommend that the client progress her program within the limits of fatigue.",
+          "Ask the PTA to reassess the client.",
+          "Advise the PTA to progress the client's program based on the PTA's observations."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 179,
+        "question": "PTs in a rehabilitation centre have been using LASER to assist wound healing for over five years with excellent results. A physician in the centre, who has been strongly opposed to this, recently published a study of 15 subjects suggesting that LASER is not an effective treatment for wound healing. What should the PTs in the centre do?",
+        "options": [
+          "Reject the findings because data from 15 subjects is insufficient for accurate statistical analysis.",
+          "Question the findings, because the physician's pre-research bias could have influenced the study.",
+          "Analyze the findings and combine this with information from additional sources.",
+          "Repeat the research using subjects who benefited from LASER treatment."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 180,
+        "question": "A PT working in a private clinic determines that an outcome measure must be used to evaluate treatments provided for clients with work-related low-back pain who are referred from a local industry. Once the appropriate tool has been chosen for this client population, why should the PT administer and score the outcome measure following the methods described by the tool developer?",
+        "options": [
+          "Because they explain the relevance of the tool for clinical decision-making.",
+          "Because they increase the participation of the client in treatment decisions.",
+          "Because they increase the reliability and validity of the tool.",
+          "Because they improve the responsiveness of the tool."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 181,
+        "question": "A 25-year-old man who has hemiplegia is attending physiotherapy at a rehabilitation centre. The client says he is lonely and confides during treatment that the PT is the type of person he would like to socialize with. What should the PT do?",
+        "options": [
+          "Redirect the client to the therapeutic tasks.",
+          "Arrange for another PT to see the client.",
+          "Clarify the relationship with the client.",
+          "Refer the client to a social worker."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 182,
+        "question": "A PT is leading an interprofessional team that is starting up a group exercise program for adults with knee osteoarthritis. Which of the following criteria is MOST important for the PT to confirm when choosing what outcome measure to use in the program?",
+        "options": [
+          "Permission to use the measure can be obtained from the developer.",
+          "The administration and scoring procedures are easy to follow.",
+          "The measures have been validated for the client population.",
+          "A technical manual or relevant documentation is available."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 183,
+        "question": "A 25-year-old man was admitted to a hospital three days ago for deep partial thickness burns to his right arm. He has significant discomfort and is reluctant to move, even after the PT explains the importance of mobilization. What is the BEST course of action for the PT to take?",
+        "options": [
+          "Delay mobilization until the client is less fearful.",
+          "Ask the nurse to discuss this with the physician on rounds.",
+          "Tell the client that his outcomes will be worse if he refuses to move.",
+          "Coordinate the treatment schedule with the client’s pain medication doses."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 184,
+        "question": "A 45-year-old woman who has a 20-year history of relapsing-remitting multiple sclerosis is being discharged from the rehabilitation unit of a community hospital after being admitted for a decline in her functional abilities. The client wants to continue with outpatient physiotherapy. In their small community, the inpatient PT is also the only private practitioner who treats clients with neurological conditions. What should the PT do?",
+        "options": [
+          "Inform the client about all the alternatives and choices available.",
+          "Wait until the client is discharged before discussing the PT's private practice as an option.",
+          "Suggest that the client travel to the next nearest community for outpatient physiotherapy.",
+          "Give the client the PT's private practice business card and tell her that this is the recommended option."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 185,
+        "question": "A 27-year-old woman is attending physiotherapy at a private practice clinic for recurrent anterior shoulder dislocation. During the assessment, which passive movement of the shoulder will cause the client apprehension?",
+        "options": [
+          "Medial rotation at 90° of abduction.",
+          "Lateral rotation at 90° of abduction.",
+          "Lateral rotation at 90° of flexion.",
+          "Extension with medial rotation."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 186,
+        "question": "A 39-year-old man has had recurrent disc protrusions, resulting in two discectomy surgeries at the L4–L5 level. Three months after his most recent surgery, he reports acute pain in sitting when the knee is extended and the spine is flexed. There is pain with a 60° straight leg raise. No other myotomal or dermatomal deficits are found. What is the MOST likely cause of the client’s symptoms?",
+        "options": [
+          "Recurrent disc herniations.",
+          "Postoperative swelling.",
+          "Nerve root adhesions.",
+          "Facet joint syndrome."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 187,
+        "question": "A 21-year-old man who has ankylosing spondylitis is referred for physiotherapy in a rehabilitation centre. Which of the following tests is the BEST indicator of the client’s disease progression?",
+        "options": [
+          "Strength testing of upper extremity muscles.",
+          "Sensitivity to pin-prick sensory testing.",
+          "Knee, ankle, and plantar reflex testing.",
+          "Occiput-to-wall measurement test."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 188,
+        "question": "A 72-year-old man is admitted to an acute care facility for a cerebrovascular accident resulting in a right flaccid hemiplegia. The client had a 2 cm (1 in) right shoulder subluxation, which was effectively reduced with the use of a full lap tray. The PT notified the team members about this protocol and documented it. For the past three days, however, the client has arrived at physiotherapy without his lap tray. His nursing attendant tells the PT, 'Everyone thinks the lap tray is too much bother.' What is the BEST course of action for the PT to take?",
+        "options": [
+          "Contact the patient care coordinator to clarify the nursing attendant's statement and offer to give an in-service on the importance of positioning.",
+          "Spend time with the nursing attendant to explain the importance of reducing the subluxation and ask them to educate the other staff.",
+          "Continue using the lap tray for the client during treatment sessions and encourage other staff to do the same.",
+          "Report this incident to the patient care coordinator to express dissatisfaction with the nursing attendant."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 189,
+        "question": "A 65-year-old woman who has breast cancer is admitted to an oncology ward with a fever and functional decline. She completed her third round of chemotherapy yesterday. While working with the client, the PT notices that the client's visiting granddaughter has a cold and is coughing. What should the PT tell the client's granddaughter?",
+        "options": [
+          "Put on a mask.",
+          "Wash her hands.",
+          "Leave the oncology wing.",
+          "Stay outside the room during physiotherapy treatment."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 190,
+        "question": "A 73-year-old man is attending physiotherapy in a hospital two days after a left total hip replacement. The PT determines that the client can understand all aspects of his care but cannot read. To ensure that the client will be able to follow his home exercise program after discharge, what is the MOST important course of action for the PT to take?",
+        "options": [
+          "Arrange for a family member to read the exercise program to him at home.",
+          "Provide the client with a detailed verbal explanation of the home exercise program.",
+          "Give the client a copy of the exercise program that has illustrations of each exercise.",
+          "Ask the client to demonstrate at least one repetition of all exercises on the day of discharge."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 191,
+        "question": "A 70-year-old man is admitted to an acute care hospital with severe left ventricular heart failure and pulmonary edema. Which of the following signs or symptoms should the PT expect to find during assessment?",
+        "options": [
+          "Productive cough with pink, frothy sputum.",
+          "Decreased ventilation perfusion.",
+          "Decreased breath sounds.",
+          "Ascites."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 192,
+        "question": "A 41-year-old woman has been attending a private physiotherapy clinic for the past six years for chronic low back pain. She asks if she can connect with the PT on social media. What should the PT tell the client?",
+        "options": [
+          "It is not acceptable for a PT to use social media professionally.",
+          "It is acceptable to connect with clients on social media after they are discharged.",
+          "It is only acceptable to connect with current clients professionally on social media.",
+          "It is not acceptable under any circumstance to connect with clients on social media."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 193,
+        "question": "A 60-year-old woman who had a cerebrovascular accident is enrolled in a five-week hospital physiotherapy research program. The hypothesis of the research is that, by following a specific gait training protocol, participants will be walking at a speed of at least 0.6 m/s by week five. The client achieves this speed by week three and asks for an early discharge. What should the PT do?",
+        "options": [
+          "Ask the research team to talk to the client about completing the study.",
+          "Encourage the client to stay for two more weeks.",
+          "Start planning for the client's early discharge.",
+          "Remove the client from the study."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 194,
+        "question": "A PT in a community-based practice is taking over the caseload of a colleague who is taking a six-month parental leave. During the PT's first session with the colleague's client who has rheumatoid arthritis, the client asks to try an alternative treatment that she saw on television. How should the PT proceed?",
+        "options": [
+          "Try the alternative treatment suggested by the client.",
+          "Continue with the treatment outlined by the colleague.",
+          "Reassess the client to determine the most appropriate treatment.",
+          "Contact the client's physician regarding the new treatment suggestion."
+        ],
+        "answer": 2
+      },
+      {
+        "id": 195,
+        "question": "A 28-year-old man is referred to physiotherapy after being diagnosed with Guillain-Barré syndrome. Which of the following clinical presentations is the PT MOST likely to observe?",
+        "options": [
+          "Slowly evolving, symmetrical ascending weakness.",
+          "Rapidly evolving, symmetrical ascending weakness.",
+          "Slowly evolving, asymmetrical descending weakness.",
+          "Rapidly evolving, asymmetrical ascending weakness."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 196,
+        "question": "A 9-month-old baby boy has osteogenesis imperfecta. He is brought by his parents to physiotherapy at a pediatric hospital. When developing a treatment plan for the baby, which of the following interventions should the PT prioritize?",
+        "options": [
+          "Parent education on proper handling and positioning techniques.",
+          "Exercises to maintain functional range of motion.",
+          "Play activities to develop trunk control.",
+          "Prescription for adaptive aids."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 197,
+        "question": "A 52-year-old man attends a private physiotherapy clinic for low back pain. The PT performs an ipsilateral standing kinetic test to assess the client's sacroiliac joints. The PT places their right thumb on the client's right posterior superior iliac spine and their left thumb on the spinous process of S2. If the client has normal joint movement, what should the PT observe when the client flexes his right hip and knee to 90°?",
+        "options": [
+          "The left thumb will move cranially.",
+          "The left thumb will move caudally.",
+          "The right thumb will move cranially.",
+          "The right thumb will move caudally."
+        ],
+        "answer": 0
+      },
+      {
+        "id": 198,
+        "question": "A 28-year-old woman with a three-year history of multiple sclerosis attends a private physiotherapy clinic for increased weakness and decreased endurance over the past month. Which of the following exercise factors is the MOST likely cause of these changes?",
+        "options": [
+          "Doing resistance exercises using free weights.",
+          "Completing circuit training on alternate days.",
+          "Participating in sub-maximal aerobic training.",
+          "Exercising to the point of fatigue."
+        ],
+        "answer": 3
+      },
+      {
+        "id": 199,
+        "question": "A PT working in a joint replacement rehabilitation unit wants to ensure that the team's physiotherapist assistants (PTAs) are being utilized effectively. What is the BEST way for the PT to assign care to a group of PTAs with varying levels of knowledge?",
+        "options": [
+          "Assign tasks based on each PTA's personal preferences.",
+          "Assign tasks based on each PTA's skills and experience.",
+          "Assign the most difficult tasks to the PTAs with the most experience.",
+          "Assign the most difficult tasks to the PTAs who completed training at an accredited college."
+        ],
+        "answer": 1
+      },
+      {
+        "id": 200,
+        "question": "A 92-year-old woman had a right cerebrovascular accident one month ago and since then has made continual improvements in her functional mobility. The PT recommends intensive inpatient rehabilitation. Her family feels that the client is “too old” for rehabilitation, and tries to convince her to return home with assistance instead. How should the PT proceed?",
+        "options": [
+          "Respect the family's wishes and provide the client with a home exercise program.",
+          "Warn the client that she will lose function if she does not continue physiotherapy.",
+          "Ask the social worker to investigate the family's reluctance toward inpatient rehabilitation.",
+          "Educate the client and her family about the value of maximizing the client's level of independence."
+        ],
+        "answer": 3
+      }
+    ]
+  }
+]
