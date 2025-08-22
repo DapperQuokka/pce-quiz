@@ -5,13 +5,13 @@
 
 .quiz {
   display: flex;
-  padding: 0 2rem;
+  padding: 1rem 2rem;
 }
 
 .control-panel {
   margin-top: 10rem;
   width: 25rem;
-  height: 12rem;
+  height: fit-content;
   padding: 1rem;
   position: fixed;
   border: 1px solid;
@@ -19,6 +19,11 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.control-panel > img {
+  margin-top: 1rem;
+  width: 50%;
 }
 
 .score {
@@ -84,7 +89,7 @@ input[type="radio"] {
   margin-right: 0.5rem;
 }
 
-.show-answer-button {
+.button {
   padding: 1rem;
   font-size: 1.6rem;
   font-weight: 700;
@@ -92,4 +97,5 @@ input[type="radio"] {
   border: 2px solid;
   display: flex;
   justify-content: center;
+  margin: 1rem 0;
 }
