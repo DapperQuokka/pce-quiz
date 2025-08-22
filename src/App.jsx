@@ -6,7 +6,7 @@ import questionSet from './data/questions.json';
 
 function App() {
   const [showAnswer, setShowAnswer] = useState(false);
-  const [score, setScore] = useState(160);
+  const [score, setScore] = useState(0);
   const [correct, setCorrect] = useState(new Array(200).fill(false));
   const [percentage, setPercentage] = useState(0);
 
@@ -31,7 +31,7 @@ function App() {
           className='score'
           style={{ display: showAnswer ? 'block' : 'none' }}
         >
-          {score} / 197
+          Score: {score} / 197
         </div>
         <div
           className='score'
@@ -40,7 +40,7 @@ function App() {
             color: percentage >= 75 ? '#9ade95' : '#e05353',
           }}
         >
-          {percentage}
+          Percentage: {percentage}%
         </div>
       </div>
       <div className='question-set'>
